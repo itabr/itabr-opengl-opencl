@@ -1,2 +1,2 @@
 # itabr-opengl-opencl
-dockerfile for opengl and opencl
+Dockerfile for opengl and opencl
