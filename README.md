@@ -1,4 +1,4 @@
 # itabr-opengl-opencl
 
-*Requires nvidia-docker
+**Requires nvidia-docker**
 Dockerfile for opengl and opencl
